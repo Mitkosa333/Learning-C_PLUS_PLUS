@@ -1,2 +1,4 @@
 # Learning-C_PLUS_PLUS
-Hare I put all my C++ tasks that help me learn
+Here I put all my C++ tasks that help me learn
+
+This is my first repository, so it also helps me learn how to use GitHub.
